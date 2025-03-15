@@ -1,1 +1,3 @@
-# ECMA_JavaScript_4
+# JavaScript про ECMAScript
+
+## Урок 4. Асинхронность в Javascript
